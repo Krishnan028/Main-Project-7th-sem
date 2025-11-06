@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Data and models
+data/
+**/data/
+models/
+**/models/
+checkpoints/
+**/checkpoints/
+*.h5
+*.ckpt
+*.pt
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Reports
+*.pdf
+
+# coverage
+htmlcov/
+.coverage
+
+# other
+.env
+.env.*
+```
